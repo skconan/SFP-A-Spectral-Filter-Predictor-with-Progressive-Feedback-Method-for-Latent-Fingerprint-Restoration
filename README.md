@@ -124,10 +124,24 @@ This work was supported in part by the Department of Electrical Engineering, Fac
 
 If you are using SFP or benchmarks in your research, kindly reference the following.
 
+	@ARTICLE{10526230,
+	  author={Kriangkhajorn, Supakit and Horapong, Kittipol and Areekul, Vutipong},
+	  journal={IEEE Access}, 
+	  title={Spectral Filter Predictor for Progressive Latent Fingerprint Restoration}, 
+	  year={2024},
+	  volume={12},
+	  number={},
+	  pages={66773-66800},
+	  keywords={Fingerprint recognition;Image restoration;Friction;Frequency-domain analysis;Filtering;Image matching;Deep learning;Image restoration;Image forensics;Machine learning;Fingerprint recognition;image restoration;image enhancement;image filtering;image forensics;machine learning},
+	  doi={10.1109/ACCESS.2024.3397729}}
+
+or
+
+	S. Kriangkhajorn, K. Horapong and V. Areekul, "Spectral Filter Predictor for Progressive Latent Fingerprint Restoration," in IEEE Access, vol. 12, pp. 66773-66800, 2024, doi: 10.1109/ACCESS.2024.3397729.
 
 <br/>
 
 ## <div align="center">Contact</div>
 
-If you have any questions or need assistance, reach us at supakit.kr@gmail.com.
+If you have any questions or need assistance, reach us fengvpa@ku.ac.th / supakit.kr@gmail.com.
 
