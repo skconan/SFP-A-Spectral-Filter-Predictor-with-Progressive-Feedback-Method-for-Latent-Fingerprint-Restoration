@@ -1,9 +1,5 @@
 # <div align="center"> SFP: A Spectral Filter Predictor with Progressive Feedback Method for Latent Fingerprint Restoration </div>
 
-```
-The installation and executable files will be made available once the paper is accepted 
-```
-
 We're sharing the executable file to ensure a user-friendly experience. Our software combines MATLAB and Python.
 
 The software comprises two parts:
@@ -12,8 +8,7 @@ The software comprises two parts:
 
 <b> 2. Progressive Feedback Method for Restoration </b> This method combines a new spectral filter predictor within a feedback framework. The spectral filter predictor PyTorch model is converted to ONNX for CPU, no GPU required.
 
-We understand the importance of transparency and reproducibility in research. By offering the executable, we simplify its use, making it convenient, especially for result comparisons.
-
+We understand the importance of transparency and reproducibility in research. Therefore, we provide the results of NIST SD27, NIST SD302, IIITD MOLF, and IIITD MSLFD on .
 
 <br/>
 
@@ -33,13 +28,13 @@ We understand the importance of transparency and reproducibility in research. By
 
 ### Install MATLAB Runtime version R2022a (9.12)
 
-1. Download MATLAB Runtime from [www.mathworks.com](https://www.mathworks.com/products/compiler/matlab-runtime.html) Or MATLAB_Runtime_R2022a_Update_6_win64.zip <b>(Coming soon)</b>.
+1. Download MATLAB Runtime from [www.mathworks.com](https://www.mathworks.com/products/compiler/matlab-runtime.html) Or [MATLAB_Runtime_R2022a_Update_6_win64.zip](https://drive.google.com/file/d/1UGLNieWDnR3yDj5UOEOA-MRmD9vIVjfA/view?usp=sharing)</b>.
 
 2. Extract files and install MATLAB Runtime using `setup.exe`.
 
 ### Install KSIP Latent Fingerprint Enhancement
 
-1. Download ksip_lfp_enh_installer.exe <b>(Coming soon)</b>.
+1. Download [ksip_lfp_enh_installer.exe](https://drive.google.com/file/d/1XMiQDv1-4gyGhQQmsdIZbsQh8z3kMkMS/view?usp=sharing)</b>.
 
 2. Install `KSIP LFP ENHANCEMENT` using `ksip_lfp_enh_installer.exe`. The installation directory will be `C:\Program Files (x86)\KSIP LFP ENHANCEMENT`
 
