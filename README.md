@@ -12,7 +12,7 @@ We understand the importance of transparency and reproducibility in research. Th
 
 <br/>
 
-## <div align="center">Requirements</div>
+## <div align="left">Requirements</div>
  
 - Windows 10 or 11 operating system.
 
@@ -24,7 +24,7 @@ We understand the importance of transparency and reproducibility in research. Th
 
 <br/>
 
-## <div align="center">Installation</div>
+## <div align="left">Installation</div>
 
 ### Install MATLAB Runtime version R2022a (9.12)
 
@@ -47,7 +47,7 @@ We understand the importance of transparency and reproducibility in research. Th
 
 <br/>
 
-## <div align="center">Usage</div>
+## <div align="left">Usage</div>
 
 0. Please ensure the latent fingerprint image resolution is set to 500 DPI.
 
@@ -102,20 +102,20 @@ We understand the importance of transparency and reproducibility in research. Th
 
 <br/>
 
-## <div align="center"> Acknowledgements </div>
+## <div align="left"> Acknowledgements </div>
 
 This work was supported in part by the Department of Electrical Engineering, Faculty of Engineering, Kasetsart University, and in part by the Siew-Sngiem Karnchanachari Research Leadership and Young Professorship Awards.
 
 <br/>
 
 
-## <div align="center">License</div>
+## <div align="left">License</div>
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
 <br/>
 
-## <div align="center">Citing SFP</div>
+## <div align="left">Citing SFP</div>
 
 If you are using SFP or benchmarks in your research, kindly reference the following.
 
@@ -136,7 +136,7 @@ or
 
 <br/>
 
-## <div align="center">Contact</div>
+## <div align="left">Contact</div>
 
 If you have any questions or need assistance, reach us fengvpa@ku.ac.th / supakit.kr@gmail.com.
 
