@@ -2,7 +2,7 @@
 title: A Spectral Filter Predictor with Progressive Feedback
 ---
 
-<h1>{{ page.title }}</h1>
+<h1 style="color:#267CB9;">{{ page.title }}</h1>
 
 <div style="text-align: center;">
   <img src="./images/figure-00-ga.png" />
@@ -75,3 +75,6 @@ SpectralDict: [Filter Design Based on Spectral Dictionary for Latent Fingerprint
     </td>
   </tr>
 </table>
+
+
+[NIST SD302: Data Exploration and Filtering](https://github.com/skconan/NIST_SD302_Latent-Rolled_Mates_Filtering_Report)
