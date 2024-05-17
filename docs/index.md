@@ -4,6 +4,10 @@ title: A Spectral Filter Predictor with Progressive Feedback
 
 <h1>{{ page.title }}</h1>
 
+<div style="text-align: center;">
+  <img src="./iamges/figure-00-ga.png" />
+</div>
+
 <br/>
 
 <h2>Restoration Results</h2>
