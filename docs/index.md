@@ -4,16 +4,17 @@ title: A Spectral Filter Predictor with Progressive Feedback
 
 <h1>{{ page.title }}</h1>
 
+<br/>
 
 <h2>Restoration Results</h2>
 
-SFP: A Spectral Filter Predictor with Progressive Feedback Method for Latent Fingerprint Restoration
+SFP: [A Spectral Filter Predictor with Progressive Feedback Method for Latent Fingerprint Restoration](https://github.com/skconan/SFP-Progressive-Feedback-Latent-Fingerprint-Restoration)
 
 PCF: [A Progressive and Corrective Feedback for Latent Fingerprint Enhancement](https://github.com/skconan/PCF-Progressive-Corrective-Feedback-Latent-Fingerprint-Enhancement)
 
 SpectralDict: [Filter Design Based on Spectral Dictionary for Latent Fingerprint Pre-enhancement](https://ieeexplore.ieee.org/document/8411199)
 
-<br/>
+
 <table>
   <tr>
     <th>Database</th>
