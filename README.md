@@ -8,7 +8,7 @@ The software comprises two parts:
 
 <b> 2. Progressive Feedback Method for Restoration </b> This method combines a new spectral filter predictor within a feedback framework. The spectral filter predictor PyTorch model is converted to ONNX for CPU, no GPU required.
 
-We understand the importance of transparency and reproducibility in research. Therefore, we provide the results of NIST SD27, NIST SD302, IIITD MOLF, and IIITD MSLFD on [SPF-Page](https://skconan.github.io/SFP-Progressive-Feedback-Latent-Fingerprint-Restoration/).
+We understand the importance of transparency and reproducibility in research. However, variations in environments can cause differences in results. Therefore, we provide the results of NIST SD27, NIST SD302, IIITD MOLF, and IIITD MSLFD on [https://skconan.github.io/SFP-Progressive-Feedback-Latent-Fingerprint-Restoration](https://skconan.github.io/SFP-Progressive-Feedback-Latent-Fingerprint-Restoration/).
 
 <br/>
 
