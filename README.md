@@ -73,22 +73,21 @@ We understand the importance of transparency and reproducibility in research. Ho
 	
 ### Example
 
-<b> Run NIST SD27 Enhancement </b>
+- Run NIST SD27 Enhancement 
 
-    ksip_sfp.exe -fp D:\NIST_SD27\Latent -seg D:\NIST_SD27\GlobalDict -out D:\NIST_SD27\Enhancement
+		ksip_sfp.exe -fp D:\NIST_SD27\Latent -seg D:\NIST_SD27\GlobalDict -out D:\NIST_SD27\Enhancement
 
+- Run NIST SD27 Enhancement without Segment
 
-<b> Run NIST SD27 Enhancement without Segment </b>
+		ksip_sfp.exe -fp D:\NIST\NIST_SD27\Latent -out D:\NIST_SD27\Enhancement
 
-    ksip_sfp.exe -fp D:\NIST\NIST_SD27\Latent -out D:\NIST_SD27\Enhancement
+- Run NIST SD27 Enhancement without Segment first 10 images
 
-<b> Run NIST SD27 Enhancement without Segment first 10 images </b>
+  		ksip_sfp.exe -fp D:\NIST_SD27\Latent -out D:\NIST_SD27\Enhancement -s 0 -e 10
+  
+- Run NIST SD27 Enhancement without Segment 10 images start at image no. 15
 
-    ksip_sfp.exe -fp D:\NIST_SD27\Latent -out D:\NIST_SD27\Enhancement -s 0 -e 10
-
-<b> Run NIST SD27 Enhancement without Segment 10 images start at image no. 15 </b>
-
-    ksip_sfp.exe -fp D:\NIST_SD27\Latent -out D:\NIST_SD27\Enhancement -s 15 -e 25
+		ksip_sfp.exe -fp D:\NIST_SD27\Latent -out D:\NIST_SD27\Enhancement -s 15 -e 25
 
 ### Output Example
 
@@ -117,7 +116,7 @@ This work was supported in part by the Department of Electrical Engineering, Fac
 
 ## <div align="left">Citing SFP</div>
 
-If you are using SFP or benchmarks in your research, kindly reference the following.
+If you are using SFP or benchmarks in your research, kindly reference [DOI: 10.1109/ACCESS.2024.3397729](https://ieeexplore.ieee.org/document/10526230) the following.
 
 	@ARTICLE{10526230,
 	  author={Kriangkhajorn, Supakit and Horapong, Kittipol and Areekul, Vutipong},
