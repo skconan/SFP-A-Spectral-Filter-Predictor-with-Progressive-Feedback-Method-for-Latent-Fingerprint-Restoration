@@ -2,7 +2,6 @@
 title: A Spectral Filter Predictor with Progressive Feedback Method for Latent Fingerprint Restoration
 ---
 
-<h1 style="color:#267CB9;">{{ page.title }}</h1>
 
 <div style="text-align: center;">
   <img src="./images/figure-00-ga.png" />
